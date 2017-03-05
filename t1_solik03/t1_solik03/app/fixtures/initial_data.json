@@ -9,8 +9,19 @@
       "Email": "solik1995@gmail.com",
       "Jabber": "solik03@42cc.co"
       "Skype": "solik_95",
-      "Other_contacts": "",
-      "Bio": ""
+      "Other_contacts": "!",
+      "Bio": "!"
+    }
+  }
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "password": "admin",
+      "is_superuser": true,
+      "is_staff": true,
+      "is_active": true
     }
   }
 ]
