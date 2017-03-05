@@ -3,6 +3,7 @@ Definition of models.
 """
 
 from django.db import models
+from django.core.validators import MaxLengthValidator
 
 # Model about me
 class Me(models.Model):
