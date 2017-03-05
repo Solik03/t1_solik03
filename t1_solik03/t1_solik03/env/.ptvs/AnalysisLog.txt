@@ -2285,3 +2285,13 @@ D:\VS2015\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\Co
 2017-03-05T11:59:13: Saving group "C:\Users\User\Documents\GitHubVisualStudio\t1_solik03\t1_solik03\t1_solik03\env\Lib\site-packages\django"
 2017-03-05T11:59:15: End of group "C:\Users\User\Documents\GitHubVisualStudio\t1_solik03\t1_solik03\t1_solik03\env\Lib\site-packages\django"
 2017-03-05T11:59:16: Deleting 0 files
+
+2017-03-05T13:43:34: Start analysis
+2017-03-05T13:43:34: [WARNING] Library was set explicitly - skipping path detection
+2017-03-05T13:43:34: IncludeModulesFromModulePath = win32com
+2017-03-05T13:43:36: Deleting 0 files
+
+2017-03-05T16:23:10: Start analysis
+2017-03-05T16:23:10: [WARNING] Library was set explicitly - skipping path detection
+2017-03-05T16:23:10: IncludeModulesFromModulePath = win32com
+2017-03-05T16:23:11: Deleting 0 files

@@ -55,8 +55,7 @@
     <Folder Include="t1_solik03\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\fixtures\me.json" />
-    <Content Include="app\fixtures\superuser.json" />
+    <Content Include="app\fixtures\initial_data.json" />
     <Content Include="app\templates\app\home.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
