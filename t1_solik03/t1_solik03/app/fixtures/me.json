@@ -1,0 +1,16 @@
+[
+  {
+    "model": "Me",
+    "pk": 1,
+    "fields": {
+      "Name": "Aleksandr",
+      "Last_name": "Solonskyi",
+      "Date_of_birth": "03:04:1995",
+      "Email": "solik1995@gmail.com",
+      "Jabber": "solik03@42cc.co"
+      "Skype": "solik_95",
+      "Other_contacts": "",
+      "Bio": ""
+    }
+  }
+]
